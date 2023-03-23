@@ -1,0 +1,3 @@
+#!/usr/bin/env bash
+
+sftp -P 40 admin@localhost
